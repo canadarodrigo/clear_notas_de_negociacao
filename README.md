@@ -1,5 +1,5 @@
 # clear_notas_de_negociacao
-Extraia as transações de suas notas de negociação da corretora Clear em pdf para excel usando Python
+Extraia as transações de suas notas de negociação da corretora Clear em pdf para excel usando Python.
 
 O script em python permite transformar várias notas de negociação (lote) de uma só vez.
 
